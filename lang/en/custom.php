@@ -1,0 +1,25 @@
+<?php 
+
+return [
+    'home' => 'Home',
+    'about_us' => 'About Us',
+    'our_services' => 'Our Services',
+    'partners' => 'Partners',
+    'contact_us' => 'Contact Us',
+    'blog' => 'Blog',
+    'about_us.title' => 'Promotro',
+    'about_us.subtitle' => 'Digital Marketing Agency',
+    'about_us.description' => 'We believe in the power of digital marketing as a vital tool for business success. Our vision is to become the trusted partner for our clients in achieving their online marketing goals by delivering creative, effective solutions that align with their ambitions, exceed expectations, and set them apart from the competition.',
+    'our_services.no_services' => 'No Services',
+    'partners.no_clients' => 'No Clients',
+    'contact_us_now' => 'Contact Us Now',
+    'company' => 'Company',
+    'name' => 'Name',
+    'email' => 'Email',
+    'phone' => 'Phone',
+    'message' => 'Message',
+    'send' => 'Send',
+    'copyright' => 'All rights reserved to Promotro Company © 2025',
+    'blogs.no-results' => 'No Blogs Found',
+    'return' => 'Return to Blog',
+];
