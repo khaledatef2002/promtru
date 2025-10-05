@@ -14,8 +14,8 @@
                 <li class="nav-item"><a class="nav-link" href="/#about-us">@lang('custom.about_us')</a></li>
                 <li class="nav-item"><a class="nav-link" href="/#services">@lang('custom.our_services')</a></li>
                 <li class="nav-item"><a class="nav-link" href="/#clients">@lang('custom.partners')</a></li>
-                <li class="nav-item"><a class="nav-link" href="/#contact">@lang('custom.contact_us')</a></li>
                 <li class="nav-item"><a class="nav-link" href="{{ route('front.blogs.index') }}">@lang('custom.blog')</a></li>
+                <li class="nav-item"><a class="nav-link" href="/#contact">@lang('custom.contact_us')</a></li>
                 <div>
                     @if (LaravelLocalization::getCurrentLocale() == 'ar')
                         <li class="nav-item">
